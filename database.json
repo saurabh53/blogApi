@@ -1,0 +1,19 @@
+{
+   "articles" :[{
+    "_id" : 1,
+    "article" :"<html> <body><p>In Khadi achieved a remarkable milestone. ₹1.5 lakh crores worth of Khadi products were sold across the world. That’s a jaw-dropping 400% increase compared to a decade ago. But it’s not just sales that have skyrocketed. Production has surged by 300%, hitting ₹1 lakh crores. And employment in the industry has jumped by an impressive 80%, creating 10 lakh new jobs.</p></body></html>",
+    "category":"Technology",
+    "subcategory":"React",
+    "pubDate":"2016-05-18T16:00:00Z"
+   },
+   {
+"_id" : 2,
+    "article" :"<html> <body><p>In Khadi achieved a remarkable milestone. ₹1.5 lakh crores worth of Khadi products were sold across the world. That’s a jaw-dropping 400% increase compared to a decade ago. But it’s not just sales that have skyrocketed. Production has surged by 300%, hitting ₹1 lakh crores. And employment in the industry has jumped by an impressive 80%, creating 10 lakh new jobs.</p></body></html>",
+    "category":"Finance",
+    "subcategory":"Option",
+    "pubDate":"2016-05-19T16:00:00Z"
+   }]
+
+    
+    
+}
